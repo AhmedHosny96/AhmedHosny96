@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmedHosny96
 - 👀 I’m interested in coding , designing , learning
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently designing , thinking , coding 
+- 💞️ I’m looking to collaborate on different projects  ...
 - 📫 How to reach me ... ping on whatsapp +251915783511
 
 <!---
